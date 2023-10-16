@@ -49,7 +49,7 @@ Execute the cells in the notebook to preprocess data, train models, make predict
 
 ## Data Source
 
-The project uses historical visitor data from a restaurant reservation system. You can replace the dataset with your own historical visitor data or data from a different reservation system.
+The project uses historical visitor data from a restaurant reservation system. 
 
 ## Development
 
